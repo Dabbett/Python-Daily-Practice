@@ -1,8 +1,8 @@
 # below is simple python for the purposes to skill exercize  
 
 
-# name = input("what is your name?")
-# name = name.strip()
+# name = input("what is your name?").strip().title()
+
 # print("Hello," + name)
 
 
