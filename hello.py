@@ -3,7 +3,7 @@
 
 # name = input("what is your name?").strip().title()
 
-# print("Hello," + name)
+# print("Hello," name)
 
 
 objects =["hello", "world", "I", "enjoy", "full", "stack", "code"]
